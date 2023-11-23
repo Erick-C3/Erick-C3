@@ -1,4 +1,4 @@
-# Hi!  :robot:
+# Hi!  🤖
 
 ## Ejemplo de README para perfil de github
 
